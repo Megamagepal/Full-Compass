@@ -1,2 +1,3 @@
-# Example
-An example greeter plugin
+# Full Compass
+___
+Shows all cardinal directions
